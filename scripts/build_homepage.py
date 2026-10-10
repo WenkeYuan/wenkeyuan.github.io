@@ -26,7 +26,11 @@ awards = [
 ]
 award_html = ''.join(f'<a class="award" href="images/awards/{file}" target="_blank" rel="noopener"><img src="images/awards/{file}" alt="{title}" loading="lazy"><h3>{title}</h3><p>{subtitle} ↗</p></a>' for file,title,subtitle in awards)
 template = (ROOT / 'homepage.html').read_text()
-(OUT / 'index.html').write_text(template.replace('{{PUBLICATIONS}}', publication_html).replace('{{AWARDS}}', award_html))
+rendered = template.replace('{{PUBLICATIONS}}', publication_html).replace('{{AWARDS}}', award_html)
+(OUT / 'index.html').write_text(rendered)
+# Keep the default branch publisher and the Actions artifact identical.
+(ROOT / 'index.html').write_text(rendered)
+(ROOT / '.nojekyll').touch()
 for name in ('homepage.css', 'homepage.js'):
     shutil.copy2(ROOT / name, OUT / name)
 (OUT / 'images/awards').mkdir(parents=True, exist_ok=True)

@@ -1,6 +1,6 @@
 # New academic homepage
 
-The new homepage is independent of Jekyll. GitHub Pages publishes only `dist/`, so the old theme files are not included in the site.
+The new homepage is independent of Jekyll. The Actions workflow publishes `dist/`. A generated root `index.html` and `.nojekyll` also support the default branch-based Pages publisher.
 
 ## Local preview
 
@@ -18,6 +18,7 @@ Open http://localhost:4173.
 - `homepage.js`: publication category filters.
 - `homepage-publications.json`: publication content and categories.
 - `scripts/build_homepage.py`: award metadata and build logic, no external dependencies.
+- `index.html`: generated homepage; run the builder after editing source files and include the updated index in your commit. Do not edit this generated file directly.
 
 ## GitHub Pages
 
