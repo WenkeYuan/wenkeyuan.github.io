@@ -1,0 +1,66 @@
+[
+  {
+    "category": "Journals",
+    "text": "**W. Yuan**, H. He, et al., \"Energy Efficient Multi-UAV Trajectory Planning in Multi-Hotspot Scenarios: A Large Language Model Enhanced MARL Approach,\" *IEEE Transactions on Mobile Computing*, accepted for publication. [TechRxiv](https://doi.org/10.36227/techrxiv.175373694.45432330/v1)."
+  },
+  {
+    "category": "Journals",
+    "text": "**W. Yuan** et al., \"Hierarchical Reinforcement Learning-Based Joint Trajectory Planning and Resource Allocation in UAV-Assisted IoT-Sensor Networks,\" *IEEE Transactions on Communications*, vol. 73, no. 12, pp. 14517-14533, Dec. 2025. doi: [10.1109/TCOMM.2025.3618699](https://doi.org/10.1109/TCOMM.2025.3618699)."
+  },
+  {
+    "category": "Journals",
+    "text": "**W. Yuan**, G. Cao, et al., \"Deep Transfer Reinforcement Learning Based Exploration Enhanced Multi-UAV Trajectory Planning,\" *IEEE Transactions on Communications*, vol. 74, pp. 1577-1593, 2026. doi: [10.1109/TCOMM.2025.3635773](https://doi.org/10.1109/TCOMM.2025.3635773)."
+  },
+  {
+    "category": "Journals",
+    "text": "H. He, **W. Yuan**\\*, et al., \"Two-Timescale Trajectory Planning for UAV Formation Serving Hotspot in Unknown Environments with Complex Obstacles,\" *IEEE Transactions on Cognitive Communications and Networking*, vol. 12, pp. 4261-4276, 2026. doi: [10.1109/TCCN.2025.3637411](https://doi.org/10.1109/TCCN.2025.3637411)."
+  },
+  {
+    "category": "Journals",
+    "text": "H. He, **W. Yuan**, S. Chen, X. Jiang, F. Yang, and J. Yang, \"Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design,\" *IEEE Transactions on Communications*, vol. 72, no. 6, pp. 3736-3751, Jun. 2024. doi: [10.1109/TCOMM.2024.3361534](https://doi.org/10.1109/TCOMM.2024.3361534)."
+  },
+  {
+    "category": "Journals",
+    "text": "H. He, **W. Yuan**, Y. Hou, S. Chen, X. Jiang, R. Zhu, and J. Yang, \"Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks,\" *IEEE Transactions on Communications*, May 2024. doi: [10.1109/TCOMM.2024.3406373](https://doi.org/10.1109/TCOMM.2024.3406373)."
+  },
+  {
+    "category": "Under Review",
+    "text": "**W. Yuan**, G. Cao, et al., \"Multi-Objective Preference Adaptive Trajectory Planning in UAV-assisted Data Collection: A Hierarchical Transfer Reinforcement Learning Approach.\" [TechRxiv](https://doi.org/10.36227/techrxiv.175373688.83435378/v1)."
+  },
+  {
+    "category": "Under Review",
+    "text": "**W. Yuan**, H. He, et al., \"LLM Empowered Multi-UAV Coordinated Trajectory Planning for Post-Disaster Energy-Efficient Data Collection.\" [TechRxiv](https://doi.org/10.36227/techrxiv.175751177.74717262/v1)."
+  },
+  {
+    "category": "Conferences",
+    "text": "S. Chen, **W. Yuan**, et al., \"Trajectory Planning for UAV Formation Assisted Communications: A Multi-imperfect Expert Guided DRL Algorithm,\" *IEEE GLOBECOM*, 2025."
+  },
+  {
+    "category": "Conferences",
+    "text": "G. Cao, **W. Yuan**, Y. Hou, et al., \"Dynamic Mask Enhanced Intelligent Multi-UAV Deployment for Urban Vehicular Networks,\" *IEEE ICC*, 2026."
+  },
+  {
+    "category": "Conferences",
+    "text": "Q. Ma, H. He, Y. Hou, **W. Yuan**, et al., \"Novelty-driven UAV Swarm Target Search based on Multi-Agent Reinforcement Learning,\" *ICCC*, 2025. **Best Student Paper Award**."
+  },
+  {
+    "category": "Conferences",
+    "text": "S. Xue, Y. Zheng, **W. Yuan**, et al., \"Hybrid Artificial Potential Field based UAV Patrol Inspection for Uncertain Target Events in Obstacle Environments,\" *ICCC*, 2025."
+  },
+  {
+    "category": "Conferences",
+    "text": "G. Cao, **W. Yuan**, H. He\\*, Y. Hou, R. Zhu, and D. Luo, \"Graph Attention Enhanced Multi-UAV Trajectory Planning: A Multi-Agent Deep Reinforcement Learning Algorithm,\" *ICAUS*, 2024. **Best Paper Award**."
+  },
+  {
+    "category": "Conferences",
+    "text": "D. Luo, Z. Ye, R. Zhu, **W. Yuan**, Y. Hou, and H. He\\*, \"Online Transmission Optimization for Satellite-Aided Multi-User Scalable Video Streaming,\" *ICAUS*, 2024. **Best Poster Award**."
+  },
+  {
+    "category": "Conferences",
+    "text": "X. Liu, J. Yang, **W. Yuan**, et al., \"RCEFL: Reputation-based Communication-aware Optimization of Federated Learning,\" *IEEE ICCT*, 2024."
+  },
+  {
+    "category": "Conferences",
+    "text": "K. Sun, K. Wu, **W. Yuan**, et al., \"SSGAR: A Genetic-based Routing Solution for Aeronautical Networks Aided by Software Defined Satellite Network,\" *ACACML*, 2023."
+  }
+]
